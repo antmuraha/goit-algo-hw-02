@@ -8,7 +8,7 @@ source bin/activate
 pip install -r requirements.txt
 ```
 
-### Running a assistant bot
+### Running scripts
 
 ```
 python main.py
